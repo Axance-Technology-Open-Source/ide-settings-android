@@ -1,0 +1,15 @@
+<application>
+  <component name="ActionMacroManager">
+    <macro name="smart-save">
+      <action id="ReformatCode" />
+      <action id="OptimizeImports" />
+      <action id="SaveAll" />
+    </macro>
+    <macro name="test">
+      <action id="GotoAction" />
+      <shortuct text="DOWN" />
+      <shortuct text="UP" />
+      <shortuct text="ENTER" />
+    </macro>
+  </component>
+</application>
